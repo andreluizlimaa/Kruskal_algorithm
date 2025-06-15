@@ -27,7 +27,7 @@ def to_undirected_multigraph(G):
 # --- CONFIGURAÇÃO DO LIMITE DE POIs ---
 # Defina o número máximo de POIs para o cálculo do MST.
 # Se houver mais POIs do que esse valor, apenas os primeiros serão usados.
-MAX_POIS_FOR_MST = 60 # Você pode mudar este valor para 10, 20, etc.
+MAX_POIS_FOR_MST = 60 
 
 # --- CÓDIGO PRINCIPAL ---
 
