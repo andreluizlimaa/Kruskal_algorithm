@@ -36,7 +36,7 @@ Execute o Notebook: Agora, você pode abrir e rodar o notebook.
 📊 Nosso Grafo Gerado em Natal
 Após rodar o notebook, você terá uma visualização impactante do grafo das farmácias e hospitais em Natal. Veja como as conexões mínimas se formam e onde os pontos de interesse se localizam!
 
-(img/Plot_pois_natal.png)
+![Image](https://github.com/user-attachments/assets/b66225c1-3b37-41f8-8942-538e901c869a)
 
 🔍 Análise e Resultados Encontrados
 A execução do Algoritmo de Kruskal no nosso grafo de farmácias, em conjunto com a localização dos hospitais, nos trouxe insights cruciais sobre a dinâmica urbana de Natal:
