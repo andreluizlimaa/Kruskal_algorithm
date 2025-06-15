@@ -12,6 +12,7 @@ Grafos Urbanos: Imagine sua cidade como um mapa de conexões! 📍
 
 Grafos são estruturas matemáticas que representam a rede de ruas e pontos de interesse (nós/vértices) de uma cidade, com as conexões (arestas) tendo "pesos" como distância ou tempo.
 Árvore Geradora Mínima (MST - Minimum Spanning Tree): Pense na forma mais econômica de conectar todos os pontos de uma rede sem criar nenhum caminho redundante (ciclo). A MST é exatamente isso: uma subestrutura de um grafo que conecta todos os seus vértices com o menor custo total possível. 🌳
+
 Algoritmo de Kruskal: Nosso herói da otimização! 💪 Este algoritmo "guloso" encontra a MST selecionando, passo a passo, as arestas de menor peso que não formam ciclos, construindo a árvore de forma eficiente.
 
 💻 Como Rodar o Código Localmente
@@ -31,9 +32,11 @@ No Windows:
 No Linux/macOS:
 
 source venv/bin/activate
+
 Instale as Dependências: Com o ambiente ativado, instale todas as bibliotecas necessárias.
 
 pip install -r requirements.txt
+
 Execute o Notebook: Agora, você pode abrir e rodar o notebook.
 
 📊 Nosso Grafo Gerado em Natal
@@ -58,8 +61,11 @@ A análise de redes urbanas com algoritmos como o Kruskal vai muito além das fa
 
 Mobilidade Urbana: Otimizar rotas para serviços de entrega, transporte público ou veículos de emergência. 🚚🚑
 Redes de Infraestrutura: Planejar a instalação de cabos de fibra óptica, redes de saneamento ou linhas de energia elétrica com o menor custo. 💡💧
+
 Planejamento de Negócios: Analisar a melhor localização para novos estabelecimentos comerciais, considerando a proximidade a outros pontos de interesse e a acessibilidade. 📈
+
 Serviços de Saúde: Otimizar a distribuição de unidades de saúde e farmácias para melhor atendimento à população. ❤️
+
 ✍️ Leia o Artigo Completo no Medium
 Quer entender cada detalhe desse projeto, desde os fundamentos teóricos até as implementações práticas? Publicamos um artigo super completo no Medium!
 
