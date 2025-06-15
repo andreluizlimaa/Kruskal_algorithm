@@ -1,4 +1,5 @@
 ✨ Otimização de Redes Urbanas: Farmácias e Hospitais em Natal com o Algoritmo de Kruskal 🏥💊
+
 Este repositório contém um poderoso notebook Python que desvenda a lógica por trás da distribuição de serviços essenciais nas cidades! Usamos o Algoritmo de Kruskal para otimizar a conectividade entre pontos de interesse (POIs) em um cenário urbano real. Nossa missão? Explorar a distribuição de farmácias e hospitais em Natal, Rio Grande do Norte, e identificar a rede de conexões mais eficiente para esses locais vitais.
 
 🗺️ O Desafio que Resolvemos
