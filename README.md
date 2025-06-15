@@ -8,7 +8,8 @@ Nosso objetivo principal foi analisar como a localização estratégica das farm
 🧠 Desvendando os Conceitos por Trás da Solução
 Para entender a mágica por trás dessa otimização, precisamos explorar alguns conceitos fundamentais:
 
-Grafos Urbanos: Imagine sua cidade como um mapa de conexões! 📍 Grafos são estruturas matemáticas que representam a rede de ruas e pontos de interesse (nós/vértices) de uma cidade, com as conexões (arestas) tendo "pesos" como distância ou tempo.
+Grafos Urbanos: Imagine sua cidade como um mapa de conexões! 📍 
+Grafos são estruturas matemáticas que representam a rede de ruas e pontos de interesse (nós/vértices) de uma cidade, com as conexões (arestas) tendo "pesos" como distância ou tempo.
 Árvore Geradora Mínima (MST - Minimum Spanning Tree): Pense na forma mais econômica de conectar todos os pontos de uma rede sem criar nenhum caminho redundante (ciclo). A MST é exatamente isso: uma subestrutura de um grafo que conecta todos os seus vértices com o menor custo total possível. 🌳
 Algoritmo de Kruskal: Nosso herói da otimização! 💪 Este algoritmo "guloso" encontra a MST selecionando, passo a passo, as arestas de menor peso que não formam ciclos, construindo a árvore de forma eficiente.
 
